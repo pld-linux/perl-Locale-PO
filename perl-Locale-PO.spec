@@ -8,13 +8,13 @@
 Summary:	Locale::PO - Perl module for manipulating .po entries from GNU gettext
 Summary(pl.UTF-8):	Locale::PO - moduł Perla do operacji na wpisach .po z GNU gettexta
 Name:		perl-Locale-PO
-Version:	0.22
+Version:	0.27
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Locale/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1537ffe87adc101628d43ca73f101987
+# Source0-md5:	81545852a510f8e5332ea1e9d6b64a39
 URL:		http://search.cpan.org/dist/Locale-PO/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
