@@ -4,7 +4,6 @@
 #
 %define		pdir	Locale
 %define		pnam	PO
-%include	/usr/lib/rpm/macros.perl
 Summary:	Locale::PO - Perl module for manipulating .po entries from GNU gettext
 Summary(pl.UTF-8):	Locale::PO - moduł Perla do operacji na wpisach .po z GNU gettexta
 Name:		perl-Locale-PO
